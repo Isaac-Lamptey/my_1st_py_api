@@ -1,0 +1,4 @@
+myvenv/
+__pyache__/
+*.py[cod]
+.env
